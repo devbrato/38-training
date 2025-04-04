@@ -3,7 +3,7 @@ import "./App.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Login from "./Component/Login/Login.jsx";
-import Header from "./Component/Header/header.jsx";  // Added .jsx
+import Header from "./Component/Header/Header.jsx";  // Added .jsx
  import Category from "./Component/CategoreyScreen/Categorey.jsx";  // Added .jsx
  import Footer from "./Component/Footer/Footer.jsx";  // Added .jsx
 
