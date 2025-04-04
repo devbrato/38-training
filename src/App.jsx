@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Login from "./Component/Login/login";
+import Login from "./Component/Login/login.jsx";
 import Header from "./Component/Header/header";
 import Category from "./Component/CategoreyScreen/Categorey";
 import Footer from "./Component/Footer/Footer";
